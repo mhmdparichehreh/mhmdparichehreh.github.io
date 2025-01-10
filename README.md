@@ -6,11 +6,11 @@
 
 > https://mmdpy.github.io
 
-![GitHub stars](https://img.shields.io/github/stars/mmdpy/mmdpy.github.io) 
-![GitHub forks](https://img.shields.io/github/forks/mmdpy/mmdpy.github.io)
-[![Maintenance](https://img.shields.io/badge/maintained-yes-green.svg)](https://github.com/mmdpy/mmdpy.github.io/commits/master)
-[![Website shields.io](https://img.shields.io/badge/website-up-yellow)](http://mmdpy.github.io/)
-[![Ask Me Anything !](https://img.shields.io/badge/ask%20me-linkedin-1abc9c.svg)](https://www.linkedin.com/in/mohammada/)
+![GitHub stars](https://img.shields.io/github/stars/mhmdparichehreh/mhmdparichehreh.github.io) 
+![GitHub forks](https://img.shields.io/github/forks/mhmdparichehreh/mhmdparichehreh.github.io)
+[![Maintenance](https://img.shields.io/badge/maintained-yes-green.svg)](https://github.com/mhmdparichehreh/mhmdparichehreh.github.io/commits/master)
+[![Website shields.io](https://img.shields.io/badge/website-up-yellow)](http://mhmdparichehreh.github.io/)
+[![Ask Me Anything !](https://img.shields.io/badge/ask%20me-linkedin-1abc9c.svg)](https://www.linkedin.com/in/mhmdparichehreh/)
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
 
 ### Website Preview
